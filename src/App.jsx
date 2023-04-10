@@ -46,7 +46,7 @@ function ThankYou({rating}) {
         You selected {rating} out of 5.
       </div>
       <h1>Thank you!</h1>
-      <div>
+      <div className='message'>
         We appreciate you taking the time to give a rating. If you ever need more support, don't hesitate to get in touch!
       </div>
     </div>
